@@ -1,0 +1,42 @@
+.header {
+    height: 20em;
+    background-image: url(../imgs/porta.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1 {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    height: 10em;
+    padding: 3em;
+    font-size: 1em;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+}
+
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+.products img{
+    width: 80%;
+    border: solid 1px #ddd;
+}
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: darksalmon;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
